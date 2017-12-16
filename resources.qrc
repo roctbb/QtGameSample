@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/files">
+        <file>images/brick.jpg</file>
+        <file>images/grass.jpg</file>
+        <file>images/player.png</file>
+        <file>game.txt</file>
+    </qresource>
+</RCC>
